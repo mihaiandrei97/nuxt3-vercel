@@ -1,1 +1,1 @@
-# Nuxt 3 with API hosted on NETLIFY
+# Nuxt 3 with API hosted on vercel
